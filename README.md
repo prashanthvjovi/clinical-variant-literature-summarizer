@@ -46,5 +46,5 @@ python -m streamlit run app.py
 ## Screenshots
 
 ### Summary and Results View
-![Summary and Results View](./screenshot.png)
+<img src="https://raw.githubusercontent.com/prashanthvjovi/clinical-variant-literature-summarizer/main/screenshot.png" width="900">
 
