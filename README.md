@@ -37,14 +37,15 @@ This project helps users explore biomedical literature for variant interpretatio
 - familial glioma
 - DMD Duchenne variant
 
+## Screenshots
+
+### Summary and Results View
+<img src="https://raw.githubusercontent.com/prashanthvjovi/clinical-variant-literature-summarizer/main/screenshot.png" width="900">
+
 ## Run Locally
 
 ```bash
 python -m pip install -r requirements.txt
 python -m streamlit run app.py
 
-## Screenshots
-
-### Summary and Results View
-<img src="https://raw.githubusercontent.com/prashanthvjovi/clinical-variant-literature-summarizer/main/screenshot.png" width="900">
 
