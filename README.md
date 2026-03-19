@@ -43,9 +43,8 @@ This project helps users explore biomedical literature for variant interpretatio
 python -m pip install -r requirements.txt
 python -m streamlit run app.py
 
-
 ## Screenshots
 
 ### Summary and Results View
-![Summary and Results View](screenshot-NLP.png)
+![Summary and Results View](./screenshot.png)
 
